@@ -8,12 +8,22 @@ A software engineering team generator command line application. The application 
 
   - [Repository](#Repository)
   - [Installation](#Installation)
-  - [Usage](#Usage)
   - [License](#License)
   - [Contributors](#Contributors)
   - [Tests](#Tests)
   - [Future Development](#Development)
   - [Contact Author](#Contact)
+
+## Repository
+https://github.com/23gzepke/team-template-engine
+
+
+## Installation
+As a user, after clone this GitHub repository, you will need to run the following command on an inegrated terminal:
+
+npm install inquirer
+
+This will install the package "inquirer," which is used to run the Node CLI.
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/
