@@ -43,7 +43,7 @@ npm run test
 
 These commands will run the test.js files within the test directory.
 
-![Screenshot](./assets/Screenshot-jettests.png)
+![Screenshot](/assets/Screenshot-jettests.png)
 
 ## Future Development
 Needs further CSS styling.
